@@ -2,7 +2,7 @@
   "name": "img-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ElizabethJJames.github.io/img-search",
+  "homepage": "https://ElizabethJJames.github.io/img-search/build/index.html",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
