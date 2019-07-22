@@ -20,6 +20,10 @@ ul {
   flex-direction: row;
   flex-wrap: wrap;
   margin-top: 120px;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  justify-content: center;
 }
 #searchHeader{
   position: fixed;
