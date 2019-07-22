@@ -16,7 +16,7 @@ class SearchBar extends React.Component {
         return (
             <div>
                 <form onSubmit={this.onFormSubmit}>
-                    <label><h2>Uplash Image Search </h2></label>
+                    <label><h2>Unsplash Image Search </h2></label>
                     <div className="inputContain">
                     <input
                         className="inputStyle"
